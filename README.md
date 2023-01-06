@@ -15,6 +15,4 @@ Express server responding to a single GET route
 
 > https://deliveroo-brandao.netlify.app/
 
-#### Front-end (Deployed on Heroku)
-
-> repository ➡️ https://github.com/Branda0/deliveroo-react
+> front repo ➡️ https://github.com/Branda0/deliveroo-react
